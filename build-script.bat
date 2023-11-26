@@ -2,8 +2,8 @@
 @echo off
 
 set "dirProject=diretorio do seu projeto"
-set "nomeApp=va-poui-protheus"
-set "dirInit=diretorio inicai do seu projeto"
+set "nomeApp=nome do seu app"
+set "dirInit=diretorio inicial do seu projeto"
 set "dirDist=diretorio da pasta dist do projeto"
 set "dirApp=pasta destino para o arquivo.app"
 
