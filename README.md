@@ -1,16 +1,16 @@
 # build-script
 
-<p>Arquivo .bat para realizar:
--> Build do projeto angular
--> Mudar para arquivo .ZIP
--> Mudar nome para .app
--> Mover para a pasta de compilação
--> Compiliar 
--> Abrir o Protheus</p>>
+<p>Arquivo .bat para realizar:</p>
+<p>-> Build do projeto angular</p>
+<p>-> Mudar para arquivo .ZIP</p>
+<p>-> Mudar nome para .app</p>
+<p>-> Mover para a pasta de compilação</p>
+<p>-> Compiliar </p>
+<p>-> Abrir o Protheus</p>
 
 
-Documentação oficial:
+<h3>Documentação oficial:</h3>
 
--> https://tdn.totvs.com/pages/viewpage.action?pageId=528461210
+<p>-> https://tdn.totvs.com/pages/viewpage.action?pageId=528461210</p>
 
--> https://tdn.totvs.com/pages/viewpage.action?pageId=6066051
+<p>-> https://tdn.totvs.com/pages/viewpage.action?pageId=6066051</p>
