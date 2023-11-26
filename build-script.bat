@@ -1,11 +1,11 @@
 
 @echo off
 
-set "dirProject=D:\Github-Vamilly\va-poui-protheus\frontend\"
+set "dirProject=diretorio do seu projeto"
 set "nomeApp=va-poui-protheus"
-set "dirInit=D:\Github-Vamilly\va-poui-protheus"
-set "dirDist=frontend\dist"
-set "dirApp=backend\protheus\src\app"
+set "dirInit=diretorio inicai do seu projeto"
+set "dirDist=diretorio da pasta dist do projeto"
+set "dirApp=pasta destino para o arquivo.app"
 
 set "dirAppServer=C:\TOTVS\Protheus2310\Protheus\bin\appserver"
 set "includes=C:\TOTVS\Includes\2210"
