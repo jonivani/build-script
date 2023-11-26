@@ -1,12 +1,12 @@
 # build-script
 
-Arquivo .bat para realizar:
+<p>Arquivo .bat para realizar:
 -> Build do projeto angular
 -> Mudar para arquivo .ZIP
 -> Mudar nome para .app
 -> Mover para a pasta de compilação
 -> Compiliar 
--> Abrir o Protheus
+-> Abrir o Protheus</p>>
 
 
 Documentação oficial:
